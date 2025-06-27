@@ -17,7 +17,7 @@
 
 🎯 &emsp; Open to internships, freelance projects, and full-time opportunities<br/><br/>
 
-🌱 &emsp; Try to improve myself by solving problems on LeetCode, reading books, and more 💪<br/><br/>
+🌱 &emsp; Try to improve myself by solving problems on LeetCode, and more 💪<br/><br/>
 
 🌐 &emsp; Back-End developing using Node.js and  MongoDB💪<br/><br/>
 
