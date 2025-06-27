@@ -33,5 +33,14 @@ Tools & Others
 
 ## 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-elhenawy-31577b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Email: mustafaelhenawy0@gmail.com
+<div style="display: flex; gap: 100px; justify-content: center; align-items: center; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/mustafa-elhenawy-31577b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 60px; height: 60px; border-radius: 12px; margin-left:100px;">
+  </a>
+  <a href="https://www.instagram.com/mustafaelhenawy7?igsh=bmxjOGp2N2w0Z2s3" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" style="width: 60px; height: 60px; border-radius: 12px;">
+  </a>
+  <a href="https://www.facebook.com/share/16WitN6Hpq/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="Facebook" style="width: 60px; height: 60px; border-radius: 12px;">
+  </a>
+</div>
