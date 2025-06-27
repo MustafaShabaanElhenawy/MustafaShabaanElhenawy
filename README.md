@@ -7,14 +7,31 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🙋‍♂ About me
 
-I'm a passionate Full Stack Web Developer with a focus on creating modern, responsive, and high-performance web applications using the MERN stack.
+<p>
+<img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif" alt="Coding gif" />
 
-- 🧠 Always learning new technologies and best practices.
-- 💬 I enjoy solving real-world problems with clean and scalable code.
-- 🌍 Based in Cairo, Egypt.
-- 🎯 Open to internships, freelance projects, and full-time opportunities.
+🧠 &emsp; Always learning new technologies and best practices.
+ <br/><br/>
+
+🎯 &emsp; Open to internships, freelance projects, and full-time opportunities<br/><br/>
+
+🌱 &emsp; Try to improve myself by solving problems on LeetCode, reading books, and more 💪<br/><br/>
+
+🌐 &emsp; Back-End developing using Node.js and  MongoDB💪<br/><br/>
+
+🌐 &emsp; Front-End developing using React.js 💪<br/><br/>
+
+
+
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+
 
 ---
 
