@@ -24,10 +24,8 @@
 🌐 &emsp; Front-End developing using React.js 💪<br/><br/>
 
 </p>
-
-<br/>
 <hr/>
----
+
 
 ## 🛠 Tech Stack
 
