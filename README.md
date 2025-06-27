@@ -33,14 +33,10 @@ Tools & Others
 
 ## 🌐 Connect with Me
 
-<div style="display: flex; gap: 100px; justify-content: center; align-items: center; margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/mustafa-elhenawy-31577b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 60px; height: 60px; border-radius: 12px; margin-left:100px;">
-  </a>
-  <a href="https://www.instagram.com/mustafaelhenawy7?igsh=bmxjOGp2N2w0Z2s3" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" style="width: 60px; height: 60px; border-radius: 12px;">
-  </a>
-  <a href="https://www.facebook.com/share/16WitN6Hpq/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="Facebook" style="width: 60px; height: 60px; border-radius: 12px;">
-  </a>
-</div>
+</p>
+<p align="center">
+ <a href = "https://www.linkedin.com/in/mustafa-elhenawy-31577b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img width="60" height="60" src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp; &nbsp;
+ <a href = "https://www.instagram.com/mustafaelhenawy7?igsh=bmxjOGp2N2w0Z2s3" target="_blank"><img width="60" height="60" alt="Insta" src="https://skillicons.dev/icons?i=instagram"/></a> &nbsp; &nbsp;
+ <a href = "https://www.facebook.com/share/1ATUYRbG7o/" target="_blank"><img width="60" height="60" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a> &nbsp; &nbsp;
+</p>
+
