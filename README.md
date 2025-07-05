@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Mostafa Elhenawy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p align="center">
-  <b>Full Stack Web Developer</b><br/>
-  React.js | Node.js | MongoDB | Express.js
+  <b>
+Front-End Web Developer With React </b><br/>
+  
 </p>
 
 ---
@@ -19,7 +20,7 @@
 
 🌱 &emsp; Try to improve myself by solving problems on LeetCode, and more 💪<br/><br/>
 
-🌐 &emsp; Back-End developing using Node.js and  MongoDB💪<br/><br/>
+
 
 🌐 &emsp; Front-End developing using React.js 💪<br/><br/>
 
