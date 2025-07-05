@@ -33,8 +33,7 @@ Front-End Web Developer With React </b><br/>
 Frontend
 - React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
-Backend
-- Node.js, Express.js, MongoDB, RESTful APIs
+
 
 Tools & Others
 - Git, GitHub, Postman, VS Code, Netlify, Vercel
