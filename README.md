@@ -30,12 +30,12 @@ Front-End Web Developer With React </b><br/>
 
 ## Tech Stack
 
-#### -Frontend
+#### - Frontend
 - React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
 
 
-#### -Tools & Others
+#### - Tools & Others
 - Git, GitHub, Postman, VS Code, Netlify, Vercel
 
 ---
