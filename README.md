@@ -8,42 +8,39 @@ Front-End Web Developer With React </b><br/>
 
 ---
 
-## 🙋‍♂ About me
+## About me
 
 <p>
 <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif" alt="Coding gif" />
-
-🧠 &emsp; Always learning new technologies and best practices.
  <br/><br/>
- <br/><br/>
+ 
 
+- Always learning new technologies and best practices. <br/><br/>
 
-🎯 &emsp; Open to internships, freelance projects, and full-time opportunities<br/><br/>
+- Open to internships, freelance projects, and full-time opportunities.<br/><br/>
 
-🌱 &emsp; Try to improve myself by solving problems on LeetCode, and more 💪<br/><br/>
+- Try to improve myself by solving problems on LeetCode, and more.<br/><br/>
 
-
-
-🌐 &emsp; Front-End developing using React.js 💪<br/><br/>
+- Front-End developing using React.js.<br/><br/>
 
 </p>
 <hr/>
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
-Frontend
+### Frontend
 - React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
 
 
-Tools & Others
+### Tools & Others
 - Git, GitHub, Postman, VS Code, Netlify, Vercel
 
 ---
 
 
-## 🚀 Languages & Tools:
+## Languages & Tools:
 
 <p align="center"> 
 <a href="https://www.javascript.com/" style="padding-right:8px;" href="#" target="_blank"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80"/></a>
@@ -80,12 +77,8 @@ Tools & Others
 
 <br/>
 <hr/>
-<br/>
 
-
-
-
-## 🌐 Connect with Me
+## Connect with Me
 
 </p>
 <p align="center">
