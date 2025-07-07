@@ -15,6 +15,8 @@ Front-End Web Developer With React </b><br/>
 
 🧠 &emsp; Always learning new technologies and best practices.
  <br/><br/>
+ <br/><br/>
+
 
 🎯 &emsp; Open to internships, freelance projects, and full-time opportunities<br/><br/>
 
