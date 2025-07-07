@@ -12,7 +12,7 @@ Front-End Web Developer With React </b><br/>
 
 <p>
 <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif" alt="Coding gif" />
- <br/><br/>
+
  
 
 - Always learning new technologies and best practices. <br/><br/>
