@@ -21,7 +21,7 @@ Front-End Web Developer With React </b><br/>
 
 - Try to improve myself by solving problems on LeetCode, and more.<br/><br/>
 
-- Front-End developing using React.js.<br/><br/>
+- Front-End developing using React.js.<br/><br/><br/>
 
 </p>
 <hr/>
@@ -29,12 +29,12 @@ Front-End Web Developer With React </b><br/>
 
 ## Tech Stack
 
-### Frontend
+#### Frontend
 - React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
 
 
-### Tools & Others
+#### Tools & Others
 - Git, GitHub, Postman, VS Code, Netlify, Vercel
 
 ---
