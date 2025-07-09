@@ -8,7 +8,7 @@ Front-End Web Developer With React </b><br/>
 
 ---
 
-## About me
+# About me
 
 <p>
 <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif" alt="Coding gif" />
@@ -28,7 +28,7 @@ Front-End Web Developer With React </b><br/>
 <hr/>
 
 
-## Tech Stack
+# Tech Stack
 
 #### - Frontend
 - React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
@@ -41,7 +41,7 @@ Front-End Web Developer With React </b><br/>
 ---
 
 
-## Languages & Tools:
+# Languages & Tools:
 
 <p align="center"> 
 <a href="https://www.javascript.com/" style="padding-right:8px;" href="#" target="_blank"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80"/></a>
@@ -79,7 +79,7 @@ Front-End Web Developer With React </b><br/>
 <br/>
 <hr/>
 
-## Connect with Me
+# Connect with Me
 
 </p>
 <p align="center">
