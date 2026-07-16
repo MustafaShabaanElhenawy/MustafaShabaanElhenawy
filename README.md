@@ -30,13 +30,13 @@ Backend Software Engineer With NodeJs </b><br/>
 
 # Tech Stack
 
-#### - Frontend
-- React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+#### - Backend
+- Node.js, Express.js, JavaScript (ES6+), RESTful APIs, MongoDB, Mongoose, JWT Authentication.
 
 
 
 #### - Tools & Others
-- Git, GitHub, Postman, VS Code, Netlify, Vercel
+- Git, GitHub, Postman, VS Code, Netlify, Vercel.
 
 ---
 
