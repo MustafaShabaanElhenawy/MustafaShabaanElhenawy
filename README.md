@@ -16,13 +16,13 @@ Backend Software Engineer With NodeJs </b><br/>
 
  
 
-- Always learning new technologies and best practices. <br/><br/>
+- Backend Engineer specializing in Node.js, Express.js, and NestJS. <br/><br/>
 
-- Open to internships, freelance projects, and full-time opportunities.<br/><br/>
+- Build scalable backend applications with RESTful APIs.<br/><br/>
 
-- Try to improve myself by solving problems on LeetCode, and more.<br/><br/>
+- Experienced with MongoDB, MySQL, Docker, and API integration.<br/><br/>
 
-- Backend Software Engineer with nodejs.<br/><br/><br/>
+-  Apply JWT Authentication, and Clean Architecture.<br/><br/><br/>
 
 </p>
 <hr/>
