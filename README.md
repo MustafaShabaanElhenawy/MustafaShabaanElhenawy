@@ -31,12 +31,13 @@ Backend Software Engineer With NodeJs </b><br/>
 # Tech Stack
 
 #### - Backend
-- Node.js, Express.js, JavaScript (ES6+), RESTful APIs, MongoDB, Mongoose, JWT Authentication.
+- Node.js, Express.js, Nest.js, RESTful APIs, JWT Authentication.
 
-
+#### - Databases
+- MySQl, MongoDB, Mongoose, NoSQL, Sequlize.
 
 #### - Tools & Others
-- Git, GitHub, Postman, VS Code, Netlify, Vercel.
+- Git, GitHub, Postman, VS Code, Netlify, Docker.
 
 ---
 
