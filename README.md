@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>
-Front-End Web Developer With React </b><br/>
+Backend Software Engineer With NodeJs </b><br/>
   
 </p>
 
@@ -22,7 +22,7 @@ Front-End Web Developer With React </b><br/>
 
 - Try to improve myself by solving problems on LeetCode, and more.<br/><br/>
 
-- Front-End developing using React.js.<br/><br/><br/>
+- Backend Software Engineer with nodejs.<br/><br/><br/>
 
 </p>
 <hr/>
